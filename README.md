@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 #### I am Prashubh Atri
 ##### Currently learning Web Development and Working on my own projects.
+![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true)
 <!--
 **PrashubhAtri/PrashubhAtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
