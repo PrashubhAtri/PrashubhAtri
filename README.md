@@ -7,16 +7,14 @@ I am a 19 year old CS undergrad :technologist: at DTU :school:, a Full-stack Dev
 - Computer Vision and Image Processing :camera:
 - Advanced Data Structures :scroll:
 
+![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true&theme=onedark)
+
 ### :dart: Goal for 2021
 - Contribute to Open Source
 - Become better at Problem Solving
 - Complete Past Projects :rofl:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
-
-![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true&theme=onedark)
-
-### ToolKit :crossed_swords:
+### My ToolKit :crossed_swords:
 <p>
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"/>
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS"/>
@@ -32,10 +30,9 @@ I am a 19 year old CS undergrad :technologist: at DTU :school:, a Full-stack Dev
 
 <br/>
 
-#### ⚡ Fun fact:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
 
 <!-- ![Prashubh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrashubhAtri) -->
-
 
 <!--
 **PrashubhAtri/PrashubhAtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
