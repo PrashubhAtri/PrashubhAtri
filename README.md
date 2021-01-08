@@ -1,7 +1,13 @@
-### Hey there 👋
+### Hey there :snowflake: 
 #### I am Prashubh Atri
 ##### Currently learning Web Development and Working on my own projects.
-![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true)
+![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
+
+<!-- ![Prashubh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrashubhAtri) -->
+
+
 <!--
 **PrashubhAtri/PrashubhAtri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
