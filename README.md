@@ -28,8 +28,7 @@ I am a 19 year old CS undergrad :technologist: at DTU :school:, a Full-stack Dev
     <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="C++" />
 </p>
 
-<br />
-
+### Language Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
 
 <!-- ![Prashubh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrashubhAtri) -->
