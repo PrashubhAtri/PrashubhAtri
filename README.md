@@ -14,6 +14,8 @@ I am a 19 year old CS undergrad :technologist: at DTU :school:, a Full-stack Dev
 - Become better at Problem Solving
 - Complete Past Projects :rofl:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
+
 ### My ToolKit :crossed_swords:
 <p>
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML"/>
@@ -27,9 +29,6 @@ I am a 19 year old CS undergrad :technologist: at DTU :school:, a Full-stack Dev
     <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" title="Python" />
     <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" title="C++" />
 </p>
-
-### Language Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
 
 <!-- ![Prashubh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrashubhAtri) -->
 
