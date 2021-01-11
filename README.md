@@ -5,7 +5,7 @@ I am 19 year old CS undergrad :technologist: at DTU :school:, a Full-Stack Devel
 ### 🌱 I’m currently learning
 - About Web Apps & their Deployment :rocket:
 - Computer Vision & Image Processing :camera:
-- Advanced Data Structures :scroll:
+- Data Structures :scroll:
 
 ![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true&theme=onedark)
 
