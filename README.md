@@ -1,6 +1,6 @@
 ## Hi, I am Prashubh :snowflake: :v:
 
-I am 21 year old Software Engineer :technologist: working at ![Arcesium](https://www.arcesium.com/).
+I am 21 year old Software Engineer :technologist: working at [Arcesium](https://www.arcesium.com/).
 
 ### 🌱 My Interests
 - WebApps :rocket:
