@@ -1,18 +1,13 @@
-## Hi there, I am Prashubh :snowflake: :v:
+## Hi, I am Prashubh :snowflake: :v:
 
-I am 19 year old CS undergrad :technologist: at DTU :school:, a Full-Stack Developer :globe_with_meridians: & Machine Learning Enthusiast :robot:
+I am 21 year old Software Engineer :technologist: working at ![Arcesium](https://www.arcesium.com/).
 
-### 🌱 I’m currently learning
-- About Web Apps & their Deployment :rocket:
-- Computer Vision & Image Processing :camera:
-- Data Structures :scroll:
+### 🌱 My Interests
+- WebApps :rocket:
+- Deep Learning & Computer Vision :camera:
+- Financial Solutions :scroll:
 
 ![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true&theme=onedark)
-
-### :dart: 2021 Targets
-- Contribute to Open Source
-- Improve Problem Solving
-- Complete Ongoing Projects :rofl:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashubhAtri&hide_border=true&theme=onedark&lang_count=3&layout=compact)
 
