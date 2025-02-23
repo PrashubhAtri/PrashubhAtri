@@ -1,11 +1,17 @@
 ## Hi, I am Prashubh :snowflake: :v:
 
-I am 21 year old Software Engineer :technologist: working at [Arcesium](https://www.arcesium.com/).
+I am 23 year old Computer Science Masters Student 🧑‍🎓 at [NYU](https://engineering.nyu.edu).
+I used to work as a Software Engineer 🧑‍💻 at [Arcesium](https://www.arcesium.com/).
+
+### I am currently working on 
+- Spiking Neural Networks
+- Randomised Algorithms
+- Small Scale webapps
 
 ### 🌱 My Interests
-- WebApps :rocket:
-- Deep Learning & Computer Vision :camera:
-- Financial Solutions :scroll:
+- Machine Learning 🕸️
+- Deep Learning 🧠
+- Financial Solutions and web apps :scroll:
 
 ![Prashubh's github stats](https://github-readme-stats.vercel.app/api?username=PrashubhAtri&show_icons=true&hide_border=true&theme=onedark)
 
